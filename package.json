@@ -1,0 +1,32 @@
+{
+  "name": "js_resume",
+  "version": "0.1.0",
+  "author": "Joshua Bruck",
+  "private": true,
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-htmlmin": "^2.4.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-minify-html": "^3.0.0",
+    "grunt-responsive-images": "^0.1.9",
+    "matchdep": "*"
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheChefGuy/js-resume.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheChefGuy/js-resume/issues"
+  },
+  "homepage": "https://github.com/TheChefGuy/js-resume#readme",
+  "dependencies": {
+    "grunt-responsive-images": "^0.1.9"
+  },
+  "description": ""
+}
